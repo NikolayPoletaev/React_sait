@@ -1,0 +1,18 @@
+.onedino{
+    display: flex;
+    justify-content: space-between;
+    background-color: #F4F9E2;
+}
+.text{
+    padding-right: 100px;
+    padding-top: 200px;
+    line-height: 50px;
+    font-size: 30px;
+    font-weight: 300;
+    flex-direction: column;
+}
+
+.img{
+    margin: 0 auto;
+    width: 800px;
+}

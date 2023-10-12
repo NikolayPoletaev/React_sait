@@ -1,0 +1,38 @@
+.divheader{
+    background-color: #F4F9E2;
+}
+.nav{
+    display: flex;
+    justify-content: space-around;
+}
+.imgnav {
+    height: 119px;
+    margin: 17px;
+    width: 118px;
+}
+
+.buttonheader ul{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 60px;
+}
+.ulnav{
+    align-items: center;
+    list-style: none;
+    margin: 62px;
+}
+.buttonnav {
+    width: 150px;
+    height: 50px;
+    border-radius: 50px;
+    background: #F9B640;
+    color: #FFF;
+    text-align: center;
+    font-family: ABeeZee;
+    font-size: 14px;
+    font-style: italic;
+    font-weight: 400;
+    line-height: normal;
+    margin: 52px;
+}

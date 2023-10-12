@@ -1,0 +1,21 @@
+.card3{
+    display: flex;
+    justify-content: space-around;
+    min-height: 480px;
+    color: white;
+}
+.blue{
+    background-color: #22356F;
+    width: 100%;
+    padding-top: 40px;
+}
+.blue1{
+    background-color: #0052C1;
+    width: 100%;
+    padding-top: 40px;
+}
+.green{
+    background-color: #76B58B;
+    width: 100%;
+    padding-top: 40px;
+}

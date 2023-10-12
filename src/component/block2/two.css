@@ -1,0 +1,18 @@
+.bicycle{
+    display: flex;
+    height: 607px;
+    justify-content: space-between;
+    background-color: #62D0DF;;
+}
+.twoh2{
+    flex-direction: column;
+    min-width: 586px;
+    min-height: 270px;
+    font-size: 30px;
+    font-weight: 300;
+
+}
+.imgb{
+    margin: 0 auto;
+    width: 520px;
+}

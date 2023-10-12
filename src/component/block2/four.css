@@ -1,0 +1,18 @@
+.arby{
+    display: flex;
+    height: 800px;
+    justify-content: space-between;
+    background-color: #fff;;
+}
+.texth3{
+    flex-direction: column;
+    font-size: 36px;
+    font-weight: 400;
+    margin-top: 242px;
+    height: 370px;
+    width: 880px;
+}
+.imgbic{
+    margin: 0 auto;
+    width: 637px;
+}
